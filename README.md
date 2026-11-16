@@ -23,12 +23,6 @@ I enjoy working with data to uncover trends, analyze business performance, build
 - **AI Business Intelligence & Anomaly Investigator** — Created a Python analytics workflow for KPI monitoring, anomaly detection, and root-cause contribution analysis.
 - **ClientIQ — Global Markets Client Profitability & Pricing Analytics** — Built a dashboard for revenue, funding costs, client profitability, pricing simulation, and financial market analysis.
 
-### 📊 Academic Exposure — Social Media Analytics
-
-- Studied Google Analytics (GA4), marketing performance metrics, and competitor benchmarking using Google Trends and Similarweb.
-- Created Power BI dashboards and performed web data collection, data cleaning, EDA, and visualization using Python.
-- Explored sentiment analysis, review mining, and topic modelling using VADER, TF-IDF, and LDA.
-
 ### 📜 Certifications
 
 - Power BI for Beginners — Simplilearn SkillUp
