@@ -1,4 +1,4 @@
-# Hi, I'm Ryan Rodricks 👋
+# Hi, I'm Ryan Rodricks!
 
 Computer Engineering graduate aspiring to build a career in **Data Analytics, Business Intelligence, and Business Analytics**.
 
