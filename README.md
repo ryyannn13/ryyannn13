@@ -1,25 +1,43 @@
 # Hi, I'm Ryan Rodricks 👋
 
-Computer Engineering graduate interested in **AI Engineering, Generative AI, Machine Learning, and Data Analytics**.
+Computer Engineering graduate aspiring to build a career in **Data Analytics, Business Intelligence, and Business Analytics**.
 
-I build practical applications using Python, LLMs, RAG, NLP, FastAPI, Streamlit, and SQL to solve real-world problems.
+I enjoy working with data to uncover trends, analyze business performance, build interactive dashboards, and translate insights into actionable decisions. My experience includes working with e-commerce datasets, customer segmentation, procurement spend analytics, data quality, and banking analytics.
 
 ### 🛠️ Technical Skills
-- **Languages:** Python, SQL, R
-- **AI/ML:** Machine Learning, NLP, LLMs, RAG, Hugging Face, FAISS, Scikit-learn
-- **Development:** FastAPI, Streamlit, REST APIs
-- **Data & Analytics:** Pandas, NumPy, MySQL, Power BI, Excel
+
+- **Programming:** Python, SQL, R
+- **Data Analysis:** Pandas, NumPy, EDA, Data Cleaning, Data Validation, Statistical Analysis, Root-Cause Analysis, Anomaly Detection
+- **Business & Marketing Analytics:** E-Commerce Analytics, Social Media Analytics, Google Analytics (GA4) Fundamentals, Google Trends, Similarweb, Customer Segmentation, Marketing Performance Metrics
+- **Data Visualization:** Power BI, Tableau, Streamlit, Plotly, Matplotlib, Seaborn
+- **Databases & Querying:** MySQL, DuckDB, Excel
+- **Machine Learning:** Scikit-learn, Classification, Regression, Feature Engineering, Model Evaluation
 - **Tools:** Git, GitHub
 
 ### 🚀 Featured Projects
-- **AI Business Intelligence & Anomaly Investigator** — AI-assisted analytics, anomaly detection, and root-cause investigation.
-- **WebsiteGPT** — A RAG-based website chatbot using semantic search and LLMs.
-- **Intelligent Document Intelligence Platform** — Document processing using OCR, NLP, and FastAPI.
-- **ProcureIQ** — Procurement spend analytics, supplier analysis, and data-quality checks.
-- **E-Commerce Sales & Customer Analytics** — Sales trends, customer segmentation, and business KPIs.
+
+- **E-Commerce Sales & Customer Analytics** — Analyzed approximately 100K Brazilian e-commerce orders, customer behavior, revenue trends, delivery performance, and RFM-based customer segments.
+- **ProcureIQ — Procurement Spend Analytics** — Developed an interactive spend dashboard with supplier analysis, data-quality checks, cost optimization insights, and Excel reporting.
+- **BankPulse — Banking Customer & Transaction Intelligence** — Built an analytics platform for customer attrition, transaction patterns, fraud KPIs, and predictive modeling.
+- **Master Data Quality & Cleansing Pipeline** — Developed a data-quality application for identifying missing values, duplicates, invalid entries, and inconsistent categories.
+- **AI Business Intelligence & Anomaly Investigator** — Created a Python analytics workflow for KPI monitoring, anomaly detection, and root-cause contribution analysis.
+- **ClientIQ — Global Markets Client Profitability & Pricing Analytics** — Built a dashboard for revenue, funding costs, client profitability, pricing simulation, and financial market analysis.
+
+### 📊 Academic Exposure — Social Media Analytics
+
+- Studied Google Analytics (GA4), marketing performance metrics, and competitor benchmarking using Google Trends and Similarweb.
+- Created Power BI dashboards and performed web data collection, data cleaning, EDA, and visualization using Python.
+- Explored sentiment analysis, review mining, and topic modelling using VADER, TF-IDF, and LDA.
+
+### 📜 Certifications
+
+- Power BI for Beginners — Simplilearn SkillUp
+- IBM Data Science Professional Certificate — Coursera
+- Deloitte Australia Data Analytics Virtual Experience — Forage
 
 ### 📫 Connect With Me
-- GitHub: [@ryyannn13](https://github.com/ryyannn13)
-- Email: ryan.rodricks13@gmail.com
 
-I'm looking for opportunities to build AI-powered applications, solve technical problems, and contribute to useful software products.
+- **GitHub:** [@ryyannn13](https://github.com/ryyannn13)
+- **Email:** ryan.rodricks13@gmail.com
+
+I'm currently looking for **entry-level opportunities in Data Analytics, Business Intelligence, and related analytical roles**, where I can apply my technical skills to solve business problems and support data-driven decision-making.
